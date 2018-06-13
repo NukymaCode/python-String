@@ -6,4 +6,4 @@ def inputInteger():
             inputNumberIsInt = True
             return number
         except ValueError:  # if it gives a ValueError, return to line 2!
-            print("Please, introduce an integer number")
+            print("Please,  introduce an integer number")
