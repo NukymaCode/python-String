@@ -1,5 +1,5 @@
-from InsertElement import insert_element
-from InputInteger import inputInteger
+from insertElement import insert_element
+from inputInteger import inputInteger
 
 def main():
 
